@@ -2,4 +2,4 @@
 
 Making a Java resizable array. 
 
-That works like ArrayList and the ArrayList methods add(), get(), remove(), size()
+That works like ArrayList and impliment the ArrayList methods add(), get(), remove(), size()
